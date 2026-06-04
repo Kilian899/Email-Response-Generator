@@ -1,0 +1,6 @@
+{
+  "name": "Lead Response Reply Generator",
+  "description": "An AI-powered business communication tool that writes concise, clear, and polite customer replies based on a customer's message and selected tone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
